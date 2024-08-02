@@ -12,7 +12,10 @@ repos:
    rev: 22.10.0
    hooks:
    -    id: black
+        files: \.py$
 -  repo: https://github.com/pylint-dev/pylint
    rev: v3.2.6
    hooks:
    -    id: pylint
+        exclude: '.*/docs/.*'
+        files: \.py$

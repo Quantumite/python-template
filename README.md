@@ -3,3 +3,4 @@
 
 ## References
 - Serious Python, Julien Danjou
+- [MyST-Parser](https://myst-parser.readthedocs.io/en/latest/)
