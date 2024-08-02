@@ -1,0 +1,4 @@
+# Python-Template Requirements
+pytest
+pytest-cov
+pre-commit
