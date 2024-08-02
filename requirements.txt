@@ -1,4 +1,5 @@
 # Python-Template Requirements
+setuptools
 pytest
 pytest-cov
 pre-commit
