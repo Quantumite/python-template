@@ -19,3 +19,8 @@ repos:
    -    id: pylint
         exclude: '.*/docs/.*'
         files: \.py$
+-  repo: https://github.com/jackdewinter/pymarkdown
+   rev: v0.9.20
+   hooks:
+   -    id: pymarkdown
+        files: \.md$
