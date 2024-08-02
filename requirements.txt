@@ -3,3 +3,6 @@ pytest
 pytest-cov
 pre-commit
 black
+pylint
+sphinx
+myst-parser
