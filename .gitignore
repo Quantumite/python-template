@@ -2,3 +2,5 @@
 .venv/
 venv
 venv/
+*\docs\out
+*/docs/out
