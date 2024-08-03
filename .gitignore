@@ -4,3 +4,4 @@ venv
 venv/
 *\docs\out
 */docs/out
+*.pyc
