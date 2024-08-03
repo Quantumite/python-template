@@ -1,4 +1,5 @@
 """Configuration options for Sphinx"""
+
 project = "Python-Template"
 author = "Austin Norby (quantumite)"
 version = "0.0.1"

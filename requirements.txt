@@ -1,4 +1,5 @@
 # Python-Template Requirements
+tox
 setuptools
 pytest
 pytest-cov
